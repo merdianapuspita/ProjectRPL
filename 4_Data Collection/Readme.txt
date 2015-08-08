@@ -1,0 +1,1 @@
+--Di dalam project kami tidak terdapat data collection--
